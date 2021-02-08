@@ -1,7 +1,7 @@
 # C-Language-Practice
 인프런의 홍정모의 따라하며 배우는 C언어를 기초로 해서 제작되었습니다.  
 이 레파지토리로 깃을 사용하는 방법도 공부하고 있습니다.  
-현재 제 코드의 기초가 되는 강의인 ![홍정모의 따라하며 배우는 C언어](https://www.inflearn.com/course/following-c)는 다음 링크에서 수강이 가능합니다.  
+현재 제 코드의 기초가 되는 강의인 [홍정모의 따라하며 배우는 C언어](https://www.inflearn.com/course/following-c)는 다음 링크에서 수강이 가능합니다.  
 
 ## 현재 복습중인 곳
 2.5 변수를 선언하는 방법
