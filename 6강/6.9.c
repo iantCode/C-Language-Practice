@@ -41,4 +41,5 @@ int main()
     for(printf("Enter 0"); i != 0; scanf("%d", &i))  //복잡하게 코딩할 수는 있는데 권장하지는 않음.
         ; //null statement
     
+    return 0;
 }
